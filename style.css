@@ -1,0 +1,205 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    background-color: #f5d1d198;
+    color: black
+  }
+  
+  h1 {
+    text-align: center;
+  }
+    
+  hr {
+    width: 50%;
+    border-color: #8a37e9f5;
+    border-width: medium;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #cf0a76f5;
+    font-size: 30px;
+  }
+  
+  h3 {
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    color:  #e9378af5;
+  }
+  
+  .roxo{
+    color: #8a37e9f5;
+  }
+  
+  h4 {
+    text-align: center;
+    color:rgba(0, 0, 0, 0.678);
+  }
+  
+  h5 {
+    text-align: center;
+    font-size: 20px;
+    color: #cf0a76f5;
+  }
+  
+  .vedana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+  }
+  
+  p {
+    line-height: 1,5;
+    text-align: justify;
+  }
+  
+  section section {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .titulo {
+    width: 960px;
+    padding: 50px;
+    margin: auto;
+  }
+  
+  .historia-iracy {
+    display: table-cell;
+  }
+  
+  img.iracy-50 {
+    display: table-cell;
+    float: left;
+    margin: 50px;
+    margin-left: 50px;
+  }
+  
+  .texto-inicial {
+    display: table-cell;
+    text-align: justify;
+    float: right;
+    width: 300px;
+    margin-top: -20px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-right: -20px;  
+  }
+  
+  .historia-da-infancia {
+    background-color: rgba(161, 243, 232, 0.288);
+    border-radius: 2px 5px 5px;
+    box-shadow: #b6b4b4 2px 2px 4px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    height: 210px;
+  }
+  
+  .historia-da-juventude {
+    width: 960px;
+    padding: 50px;
+    margin: auto;
+  }
+  
+  .conteudo-da-juventude {
+    display: table-cell;
+  }
+  
+  .paragrafos-da-juventude {
+    display: table-cell;
+    line-height: 2;
+    float: left;
+    width: 380px;
+    margin-top: 20px;
+    margin-right: 100px;
+  }
+  
+  .img-juven {
+    display: table-cell;
+    float: left;
+    margin: 50px;
+    margin-right: 10px;
+    margin-left: 10px; 
+  } 
+  
+  .vida-adulta {
+    background-color: rgba(161, 243, 232, 0.288);
+    border-radius: 2px 5px 5px;
+    box-shadow: #b6b4b4 2px 2px 4px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    height: 220px;
+  } 
+  
+  #fotos-familia {
+    text-align: center; 
+  }
+  
+  ul li {
+    display: inline-block;
+    width: 400px;
+    margin: 5px;
+  }
+  
+  ul li img {
+    width: 100%;
+  }
+  
+  ul {
+    list-style-type: none;
+    line-height: 1,5;
+    padding-left: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #8a37e9f5;
+    font-weight: 600;
+  }
+  
+  #rodape {
+    text-align: center;
+  }
+  
+  form{
+    text-align: center;
+    margin: auto;
+  }
+  
+  button {
+    border: 1px solid transparent;
+    padding:2px 20px;
+    border-radius: 3px;
+  }
+  
+  .menu {
+    background: #ffc6b5;
+    height: 40px;
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .menu a{
+    color: #000;
+    text-decoration: underline;
+    font-weight: normal;
+  }
+  
+  .menu ul li {
+    display: inline;
+    line-height: 2.5;
+    margin: 0 90px;
+  }
+  
+  .comentarios{
+    width: 80%;
+    margin: 10%;
+    column-count: 2;
+    column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    }
